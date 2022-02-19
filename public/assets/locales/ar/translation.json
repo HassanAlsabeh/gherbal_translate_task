@@ -24,19 +24,5 @@
   "pin": "يحق لمحكمة الاستئناف عند مباشرة مهامها الاستماع الى الشهود واستجواب اطراف الدعوى واستدعاء شهود جدد وتعيين خبير والاستماع الى الخبراء والقيام بأي جديد.  ",
   "appeal": "التحقيقات التي تراها مناسبة",
 
-  "appeal_1": "تأجيل الاستئناف الأحكام النهائية بالنسبة للمدعي والمدعى عليه المسؤول عن المال.  وضمان أن يكون التأخير 15 يوماً",
-  "appeal_1_sub": "As of the date of its issuance if it is made in presentia. As of the date of being notified whether it is made in presentia or absentia.",
-
-  "appeal_2": "With respect to the AppellatePublic Prosecutor, the delay is one month:",
-  "appeal_2_sub": "As of the date of issuance of the judgment.",
-
-  "appeal_3": "With respect to the Appellate Public Prosecution, the delay is two months:",
-  "appeal_3_sub": "As of the date of issuance of the judgment.",
-
-  "decision": "Decision on revoking or accepting the defenses stated in Article Criminal Procedures Code:",
-  "decision_1": "With respect to the Public Prosecution, the delay is 24 hours:",
-  "decision_1_2": "As of the date of issuance of the decision.",
-
-  "decision_2": "With respect to the opponents, the delay is 24 hours:",
-  "decision_2_2": "As of the date of notifying the opponents of the same."
+  "appeal_1": "تأجيل الاستئناف الأحكام النهائية بالنسبة للمدعي والمدعى عليه المسؤول عن المال.  وضمان أن يكون التأخير 15 يوماً"
 }
