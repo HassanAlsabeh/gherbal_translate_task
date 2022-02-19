@@ -1,0 +1,42 @@
+{
+  "app_title": "عنوان",
+  "language": "اللغة",
+  "welcome_message": "اهلا بكم",
+  "days_since_release": "لقد مرت {{number_of_days}} أيام على إصدار هذا الفيديو",
+
+  "header_title": "  محكمة الاستئناف الجزائية",
+  "header_1": " في كل محافظة محكمة استئناف واحدة أو أكثر.",
+  "header_2": " تتكون محكمة الاستئناف من 3 قضاة: رئيس ومستشاران.",
+  "header_3": " - يمثل النيابة العامة أمام محكمة الاستئناف النائب العام الاستئنافي أو النائب العام",
+
+  "body_title": "اختصاصها",
+  "first_body": "تنظر محكمة الاستئناف في استئناف جميع الأحكام الصادرة عن القاضي المنفرد الجزائي في قضايا الجنح على أن تكون قد حسمت في موضوع النزاع.  ومع ذلك ، إذا لم تتم تسويتها في موضوع النزاع ، فيتم استئنافها بالحكم النهائي فقط",
+  "body_title2": "فيما عدا",
+  "second_body": " يقبل استئناف القرارات التي فصلت واحدة أو أكثر من الدفوع الشكلية المنصوص عليها في المادة 73 من قانون الإجراءات الجنائية. ",
+  "third_body": "قرارات ينهي بموجبها القاضي المنفرد الدعوى دون التطرق إلى موضوعها",
+  "fourth_body": " القرارات الصادرة بقبول أو إلغاء طلبات الإفراج.",
+  "search": "تنظر محكمة الاستئناف في استئناف الأحكام الصادرة عن القاضي المنفرد الجزائي في قضايا المخالفات على أن تكون في",
+  "search_icon_1": " الحبس الإضافي أو الحبس الاحتياطي أو الحبس الاحتياطي أو الغرامة التي تزيد على خمسمائة ألف ليرة لبنانية",
+  "search_icon_2": "عقوبة ثانوية أو تعويضات شخصية تزيد على مائة ألف فرنك",
+  "search_icon_3": "إبطال دفاع منصوص عليها في المادة 73 من قانون الإجراءات الجنائية",
+  "search_icon_4": "عقوبة الدعوى المرتبطة بجنح الليرة اللبنانية.",
+
+  "pin": "يحق لمحكمة الاستئناف عند مباشرة مهامها الاستماع الى الشهود واستجواب اطراف الدعوى واستدعاء شهود جدد وتعيين خبير والاستماع الى الخبراء والقيام بأي جديد.  ",
+  "appeal": "التحقيقات التي تراها مناسبة",
+
+  "appeal_1": "تأجيل الاستئناف الأحكام النهائية بالنسبة للمدعي والمدعى عليه المسؤول عن المال.  وضمان أن يكون التأخير 15 يوماً",
+  "appeal_1_sub": "As of the date of its issuance if it is made in presentia. As of the date of being notified whether it is made in presentia or absentia.",
+
+  "appeal_2": "With respect to the AppellatePublic Prosecutor, the delay is one month:",
+  "appeal_2_sub": "As of the date of issuance of the judgment.",
+
+  "appeal_3": "With respect to the Appellate Public Prosecution, the delay is two months:",
+  "appeal_3_sub": "As of the date of issuance of the judgment.",
+
+  "decision": "Decision on revoking or accepting the defenses stated in Article Criminal Procedures Code:",
+  "decision_1": "With respect to the Public Prosecution, the delay is 24 hours:",
+  "decision_1_2": "As of the date of issuance of the decision.",
+
+  "decision_2": "With respect to the opponents, the delay is 24 hours:",
+  "decision_2_2": "As of the date of notifying the opponents of the same."
+}
